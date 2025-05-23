@@ -1,0 +1,349 @@
+Wird geladen …
+
+15:58
+Du hast Folgendes gesendet:
+🐾 One-on-One Training
+
+Just you, your dog, and gentle guidance – tailored with heart.
+In these private sessions, we take the time to understand your dog’s unique personality and needs. No pressure, no harshness – just calm, kind support to help you both grow together.
+
+🌸 Whether it’s leash walking, confidence-building, or everyday manners, we move at your dog’s pace – with patience, play, and plenty of treats.
+
+Because every dog deserves to be seen, heard, and trained with love.
+16:15
+Du hast Folgendes gesendet:
+These sessions help dogs learn to stay focused around other dogs, practice calm behavior in public, and build everyday manners like leash walking, recall, and polite greetings — all in a safe, supportive setting.
+
+🌸 Ideal for dogs who are social, confident, or working on staying calm around others.
+We keep our groups small to make sure each pup gets the attention they deserve.
+Du hast Folgendes gesendet:
+🐕‍🦺 Drop-Off Dog Training
+
+No time? No worries – I’ll train for you!
+In this convenient training option, you drop your dog off for about an hour while I work one-on-one with them using kind, force-free methods tailored to their needs.
+
+After each session, you’ll receive a short video and a simple explanation of what we worked on — so you can follow up at home with confidence and ease.
+
+🌸 It’s perfect for busy dog parents who want professional support, without missing out on the learning journey.
+20:17
+Du hast Folgendes gesendet:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Loona's Dog Training</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', cursive, sans-serif;
+      background-color: #ffe6f0;
+      color: white;
+      text-align: center;
+    }
+
+    header {
+      background-color: #ffb6c1;
+      padding: 2rem 1rem;
+    }
+
+    h1 {
+      font-family: 'Brush Script MT', cursive;
+      font-size: 3em;
+      margin: 0;
+    }
+
+    section {
+      padding: 2rem 1rem;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .section-heading {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      font-family: 'Brush Script MT', cursive;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    ul li::before {
+      content: "🦋 ";
+    }
+
+    .footer {
+      background-color: #ffb6c1;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+
+    a {
+      color: white;
+      text-decoration: underline;
+    }
+
+    .video-link {
+      margin-top: 2rem;
+      font-size: 1.2rem;
+    }
+
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Loona's Dog Training</h1>
+  </header>
+
+  <section>
+    <h2 class="section-heading">About Me</h2>
+    <p>Hi! I'm a passionate, force-free dog trainer from Germany now living in El Monte, CA.  
+    I’ve learned from 7 different trainers and believe in positive, respectful methods that bring harmony to dog and human. My own dog – a brindle Bullmastiff – is my biggest teacher. 🐾</p>
+  </section>
+
+  <section>
+    <h2 class="section-heading">What I Offer</h2>
+    <ul>
+      <li>Muzzle Counseling & Training</li>
+      <li>Mental Stimulation Games</li>
+      <li>Drop-In Training</li>
+      <li>One-on-One Training</li>
+      <li>Group Training</li>
+      <li>Social Walks</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="section-heading">Energy & Empathy</h2>
+    <p>Dogs feel our energy. My training is based on mutual respect, calmness, clarity and connection. We work together with love – never fear.</p>
+  </section>
+
+  <section class="video-link">
+    <p><a href="https://www.tiktok.com/@yourusername" target="_blank">🎥 Click here to view my training videos on TikTok</a></p>
+  </section>
+
+  <div class="footer">
+    <p>Contact me: loonasdogtraining@example.com | WhatsApp | Instagram: @loonasdogtraining</p>
+  </div>
+
+</body>
+</html>
+
+your username bei TikTok
+@yourusername 1951 Follower, 36 Folgen, 0 Likes – Schau dir tolle Kurzvideos von your username an
+Du hast Folgendes gesendet:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Luna's Dog Training</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto&display=swap');
+  body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #fce6f1; /* helleres Rosa */
+    color: #fff;
+  }
+  header {
+    background-color: #f9cde0; /* etwas kräftigeres Rosa für Header */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  header h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 2.2rem;
+    margin: 0;
+  }
+  header img {
+    height: 60px;
+    width: auto;
+  }
+  nav {
+    margin-top: 10px;
+    background-color: #f9cde0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  nav button {
+    background: none;
+    border: none;
+    font-size: 1.1rem;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  nav button:hover,
+  nav button.active {
+    background-color: #e9a8bf;
+    border-radius: 5px;
+  }
+  main {
+    padding: 30px 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    color: #333;
+  }
+  section {
+    display: none;
+  }
+  section.active {
+    display: block;
+  }
+  #home h2 {
+    color: #5c244d;
+  }
+  #home img {
+    max-width: 100%;
+    border-radius: 12px;
+    margin: 20px 0;
+    box-shadow: 0 5px 15px rgba(92, 36, 77, 0.3);
+  }
+  #about-me {
+    margin-top: 20px;
+    font-size: 1.1rem;
+    color: #5c244d;
+  }
+  #contact {
+    margin-top: 40px;
+    background-color: #f9cde0;
+    color: #5c244d;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  #contact a {
+    color: #5c244d;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 10px;
+  }
+  #services ul {
+    list-style: none;
+    padding: 0;
+  }
+  #services li {
+    background: #f4d3df;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    padding: 15px;
+    color: #5c244d;
+    box-shadow: 0 3px 6px rgba(92, 36, 77, 0.2);
+  }
+  #services li h3 {
+    margin-top: 0;
+  }
+  #videos iframe {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(92, 36, 77, 0.3);
+  }
+  @media (max-width: 600px) {
+    header {
+      flex-direction: column;
+      text-align: center;
+    }
+    nav {
+      gap: 15px;
+    }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Luna's Dog Training</h1>
+  <img id="logo" src="#" alt="Logo (kommt bald)" />
+</header>
+<nav>
+  <button class="nav-btn active" data-target="home">Home</button>
+  <button class="nav-btn" data-target="services">Services</button>
+  <button class="nav-btn" data-target="videos">Videos</button>
+</nav>
+<main>
+  <section id="home" class="active">
+    <img id="dog-image" src="#" alt="Bild von Luna (kommt bald)" />
+    <div id="about-me">
+      <h2>Über mich</h2>
+      <p>
+        Hallo! Ich bin Luna und ich biete liebevolles, force-free Hundetraining an. 
+        Meine Erfahrungen aus Deutschland und hier in Kalifornien helfen mir, dir und deinem Hund bestmöglich zu helfen.
+      </p>
+    </div>
+    <div id="contact">
+      <h2>Kontakt</h2>
+      <p>
+        Schreibe mir gerne: 
+        <a href="mailto:deine.email@example.com">deine.email@example.com</a> oder 
+        <a href="https://wa.me/1234567890" target="_blank" rel="noopener">WhatsApp</a>
+      </p>
+    </div>
+  </section>
+  <section id="services">
+    <h2>Services</h2>
+    <ul>
+      <li>
+        <h3>Maulkorbberatung</h3>
+        <p>Individuelle Beratung und Training rund um den Maulkorb.</p>
+      </li>
+      <li>
+        <h3>Maulkorbtraining</h3>
+        <p>Sanftes Training, um den Maulkorb stressfrei zu akzeptieren.</p>
+      </li>
+      <li>
+        <h3>Mental Stimulation Games</h3>
+        <p>Förderung der geistigen Fitness deines Hundes mit spielerischen Übungen.</p>
+      </li>
+      <li>
+        <h3>Drop-In Training</h3>
+        <p>Flexible Trainingseinheiten ohne langfristige Bindung.</p>
+      </li>
+      <li>
+        <h3>Einzeltraining</h3>
+        <p>Persönliches Training, das speziell auf dich und deinen Hund zugeschnitten ist.</p>
+      </li>
+      <li>
+        <h3>Gruppentraining</h3>
+        <p>Gemeinsames Training in kleinen Gruppen für soziales Lernen.</p>
+      </li>
+      <li>
+        <h3>Social Walks</h3>
+        <p>Geführte Spaziergänge zum Sozialkontakt und Training im Alltag.</p>
+      </li>
+    </ul>
+  </section>
+  <section id="videos">
+    <h2>Videos</h2>
+    <p>Hier werden bald TikTok Videos eingebunden.</p>
+    <!-- Beispiel für TikTok-Embed -->
+    <!-- <iframe src="https://www.tiktok.com/embed/VIDEO_ID" allowfullscreen></iframe> -->
+  </section>
+</main>
+<script>
+  const buttons = document.querySelectorAll('.nav-btn');
+  const sections = document.querySelectorAll('main section');
+
+  buttons.forEach(button => {
+    button.addEventListener('click', () => {
+      buttons.forEach(btn => btn.classList.remove('active'));
+      button.classList.add('active');
+
+      const target = button.getAttribute('data-target');
+      sections.forEach(section => {
+        if(section.id === target) {
+          section.classList.add('active');
+        } else {
+          section.classList.remove('active');
